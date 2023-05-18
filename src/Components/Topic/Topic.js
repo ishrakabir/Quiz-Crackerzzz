@@ -4,6 +4,7 @@ import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
 const Topic = ({ data }) => {
     const { id, logo, name } = data;
+    // console.log(data);
     return (
         <div className=' border rounded-lg p-2 md:text-xs'>
             <img className='bg-slate-200 border rounded-lg  ' src={logo} alt="" />

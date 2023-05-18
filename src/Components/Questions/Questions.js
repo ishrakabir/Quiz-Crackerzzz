@@ -12,7 +12,7 @@ const Questions = ({ ques,cnt }) => {
                 <h1 className='text-purple-500 text-sm sm:text-xl font-bold'>Quiz {cnt} : {question}</h1>
                 <button onClick={() => setEye(!eye)}><FontAwesomeIcon className={` ${eye ? 'text-green-400' :'text-purple-500' }`} icon={faEye}></FontAwesomeIcon></button>
             </div>
-            <div className='grid grid-cols-2 gap-2 my-4'>
+            <div className='grid grid-cols-1 md:grid-cols-2 gap-2 my-4'>
                 {
                     options.map(option=><Option option={option} correctAnswer={correctAnswer} eye={eye}></Option>)
                 }        
