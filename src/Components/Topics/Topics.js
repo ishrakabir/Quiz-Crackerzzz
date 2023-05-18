@@ -9,7 +9,7 @@ const Topics = () => {
     const topics = useLoaderData();
     const datas = topics.data;
     const [open] = useContext(openContext);
-    datas.map(data=>console.log(data.total))
+
     return (
         <div className={`grid xxl:grid-cols-4 xl:grid-cols-3 justify-items-center xs:grid-cols-1 sm:grid-cols-2 gap-4 ${open || 'mt-32'} transition  duration-1500`}>
             {

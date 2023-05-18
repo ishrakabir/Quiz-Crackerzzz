@@ -21,6 +21,7 @@ function App() {
           },
           element: <Topics></Topics>,
         },
+        
         {
           path: '/:id',
           loader: async ({ params }) => {
