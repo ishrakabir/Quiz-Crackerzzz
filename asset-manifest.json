@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quiz-Crackerzzz/static/css/main.d5d3f7ab.css",
+    "main.js": "/Quiz-Crackerzzz/static/js/main.b56359ad.js",
+    "static/js/787.2ae48f80.chunk.js": "/Quiz-Crackerzzz/static/js/787.2ae48f80.chunk.js",
+    "index.html": "/Quiz-Crackerzzz/index.html",
+    "main.d5d3f7ab.css.map": "/Quiz-Crackerzzz/static/css/main.d5d3f7ab.css.map",
+    "main.b56359ad.js.map": "/Quiz-Crackerzzz/static/js/main.b56359ad.js.map",
+    "787.2ae48f80.chunk.js.map": "/Quiz-Crackerzzz/static/js/787.2ae48f80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5d3f7ab.css",
+    "static/js/main.b56359ad.js"
+  ]
+}
