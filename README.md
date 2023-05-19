@@ -2,7 +2,7 @@
 <div align="center">
   
 ---
-# **[Live-Site]()**
+# **[Live-Site](https://ishrak-quiz-app.netlify.app/)**
 ---
 # Getting Started with Create React App
 <br>
